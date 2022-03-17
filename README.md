@@ -2,9 +2,9 @@
 
 게임 개발만 바라보는 게임 클라이언트 프로그래머
 
-블로그: http://blog.naver.com/rnwjdgus7
-트위치: https://twitter.com/SIGAZ7
-슬라이드쉐어: https://www.slideshare.net/ssuser2426e7
+- 블로그: http://blog.naver.com/rnwjdgus7
+- 트위치: https://twitter.com/SIGAZ7
+- 슬라이드쉐어: https://www.slideshare.net/ssuser2426e7
 
 
 ---------------------------------------------------
