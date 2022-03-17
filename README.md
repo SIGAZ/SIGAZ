@@ -3,8 +3,8 @@
 게임 개발만 바라보는 게임 클라이언트 프로그래머
 
 
-------------------------------
-만져본적 있는 스킬
+---------------------------------------------------
+# 만져본적 있는 스킬
 언어
 - C언어
 - C++ 언어
@@ -14,7 +14,7 @@
 - PHP
 - HTML (HTML은 프로그래밍 언어가 아닙니다)
 
-아키텍처
+# 아키텍처
 - 컴퓨터 구조
 - 알고리즘
 - 어셈블리
@@ -23,7 +23,7 @@
 - 운영체제 이론
 - 리눅스 우분투
 
-게임
+# 게임
 - 유니티 4
 - 언리얼 UDK
 - 언리얼 4
@@ -31,41 +31,36 @@
 - 게임 기획
 - 게임 시나리오
 
-그래픽스
+# 그래픽스
 - OpenVG
 - OpenGL
 - DirectX 2D
 - DirectX 3D
 
-프레임워크
+# 프레임워크
 - Win32
 - MFC
 
 
-네트워크
+# 네트워크
 - TCP/IP 이론
 
-웹 개발
+# 웹 개발
 - HTML 5
 - CSS3 
 
-개발 스킬
+# 개발 스킬
 - QA
 
-기타 개발 스킬
+# 기타 개발 스킬
 - 물리학
 - 미적분학
 
-
-디자인
+# 디자인
 - UX 디자인
 - MAYA
 
-
-
-
-----------------------
-
+---------------------------------------------------
 
 관심 있는 스킬
 언어
@@ -154,20 +149,4 @@ AI
 
 
 
--------------------------------------------
-
-
-<!--
-**SIGAZ/SIGAZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---------------------------------------------------
