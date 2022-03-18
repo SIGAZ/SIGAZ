@@ -9,8 +9,7 @@
 - 슬라이드쉐어: https://www.slideshare.net/ssuser2426e7
 - 이메일: rnwjdgus7@naver.com
 
-
-
+<pre><pre>
 
 ## 만져본적 있는 스킬
 언어: C언어, C++ 언어, 자바, C#, 파이썬, PHP, HTML (HTML은 프로그래밍 언어가 아닙니다)
