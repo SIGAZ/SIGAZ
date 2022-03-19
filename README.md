@@ -5,14 +5,13 @@
 아주대학교 컴퓨터학과, 미디어학과 복수전공 학사 졸업
 
 - 블로그: http://blog.naver.com/rnwjdgus7
-- 트위치: https://twitter.com/SIGAZ7
+- 트위터: https://twitter.com/SIGAZ7
 - 슬라이드쉐어: https://www.slideshare.net/ssuser2426e7
 - 이메일: rnwjdgus7@naver.com
 
 
 ## SKILL 
-C/C++, JAVA, C#, Python
-
+- C/C++, JAVA, C#, Python
 
 
 <!--
