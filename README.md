@@ -11,7 +11,6 @@
 
 - 블로그: http://blog.naver.com/rnwjdgus7
 - 트위터: https://twitter.com/SIGAZ7
-- 슬라이드쉐어: https://www.slideshare.net/ssuser2426e7
 - 이메일: rnwjdgus7@naver.com
 
 
