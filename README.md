@@ -16,11 +16,13 @@
 
 
 ## SKILL 
-- C/C++, C#, JAVA, Python
+- C/C++
 
 
 <!--
 // * 1차 프로필 넣어두기
+
+, C#, JAVA, Python
 
 | C/C++/C#/JAVA/Python | Win32/MFC | DirectX 2D/3D | Unreal/Unity
 
